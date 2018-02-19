@@ -9,3 +9,5 @@ Alucard = ПВП, ПВМ макросы
 Craft Learn =  ПВП, ПВМ, а также макросы на прокачку скилов и крафта
 
 !Файлы assistant.xml, launcher.xml, assistant.xml.backup  - дополнительные настройки UOSteam (расположение иконок магии, расположение игры, сервера для подключения итд...)
+
+UOSteam_Alucard_Hotkeys_Info_19_02_2018.xlsx - Описание Хоткеев Профиля
